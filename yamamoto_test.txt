@@ -18,6 +18,6 @@ def masuhara{
 }
 
 def nakamoto{
-
+Granite, Basalt
 
 }
