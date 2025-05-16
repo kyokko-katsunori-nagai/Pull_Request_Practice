@@ -15,10 +15,10 @@ def yamamoto{
 }
 
 def masuhara{
-print("Curren chan")
+print("Curren Chan")
 print("Aston Machan")
 print("Almond Eye")
-
+ptint("Daring Tact")
 
 
 }
