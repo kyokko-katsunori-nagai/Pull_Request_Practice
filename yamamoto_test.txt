@@ -18,7 +18,7 @@ def masuhara{
 print("Curren chan")
 print("Aston Machan")
 print("Almond Eye")
-
+print("Hokko Tarumae")
 
 
 }
