@@ -15,6 +15,9 @@ def yamamoto{
 }
 
 def masuhara{
+print("Curren chan")
+print("Aston Machan")
+print("Almond Eye")
 
 
 
