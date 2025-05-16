@@ -12,7 +12,7 @@ def yamamoto{
 }
 
 def masuhara{
-
+print("Curren-chan")
 
 
 }
