@@ -18,6 +18,7 @@ def masuhara{
 print("Curren Chan")
 print("Aston Machan")
 print("Almond Eye")
+print("Hokko Tarumae")
 ptint("Daring Tact")
 
 
