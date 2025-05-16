@@ -25,5 +25,5 @@ print("Almond Eye")
 
 def nakamoto{
 Granite, Basalt
-
+quartz, olivine
 }
