@@ -27,5 +27,5 @@ ptint("Daring Tact")
 
 def nakamoto{
 Granite, Basalt
-
+quartz, olivine
 }
